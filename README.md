@@ -1,0 +1,2 @@
+# tugas
+temperatur suhu
